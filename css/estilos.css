@@ -1,0 +1,38 @@
+
+#banner nav {
+		font-size: 20px;
+		height: 40px;
+		line-height: 30px;
+		margin: 2 auto 2em auto;
+		padding: 0;
+		width: 1500px;
+		font-style: verdana;
+		color: #ffffff;
+		text-shadow: 1px 2px 3px #02010a;
+			}
+
+	#banner nav li {float: right; display: inline; margin: 10	;}
+
+	#banner{
+			background-color: #5b7989;
+			font-style: Lato-LightItalic;
+
+		}
+	#banner h1{
+		color: white;
+		text-shadow: 1px 2px 3px #02010a;
+
+		}
+	#banner nav a:link, #banner nav a:visited {
+		display: inline-block;
+		height: 30px;
+		padding: 5px 1.5em;
+		text-decoration: none;
+		color: #fff;
+		}
+	body{
+			background-color: #d5c75f
+		}
+	footer{
+			background-color: #C6d5c5
+		}
