@@ -23,14 +23,14 @@ body {
 
 #contenido > section > h1 {
 	padding: 10px;
-	text-align: center;
+	text-align: left;
 }
 
 footer {
 	margin-top: 10px;
 	border-top: solid 1px black;
 	padding-top: 10px;
-	text-align: center;
+	text-align: left;
 }
 header	 {
 	margin-top: 10px;
