@@ -1,69 +1,9 @@
 
-body {
-	margin: 1px;
-}
-
-#contenido {
-	display: flex;
-	flex-direction: column;
-	text-shadow: 2px 2px #02010a
-}
-
-#destacados {
-	background-color: #5b7989
-}
-
-#ofertas {
-	background-color: #F7D988;
-}
-
-#disponible {
-	background-color: #F7A188;
-}
-
-#contenido > section > h1 {
-	padding: 10px;
-	text-align: left;
-}
-
-footer {
+header{
 	margin-top: 10px;
-	border-top: solid 1px black;
-	padding-top: 10px;
-	text-align: left;
-}
-header	 {
-	margin-top: 10px;
-	border-top: solid 1px black;
-	padding-top: 10px;
-	text-align: center;
-}
+	background-color: #5b7989;
+	}
 
-.contenedor {
-	display: flex;
-	flex-direction: row;
-}
-
-#destacados .contenedor > div {
-	text-align: center;
-	padding: 10px;
-	margin: 10px;
-	background-color: white;
-	width: 50%;
-}
-
-#ofertas .contenedor > div {
-	text-align: center;
-	padding: 10px;
-	margin: 10px;
-	background-color: white;
-	width: 33.3%;
-}
-
-#disponible .contenedor > div {
-	text-align: center;
-	padding: 10px;
-	border: solid 5px coral;
-	background-color: white;
-	width: 25%;
+#section1 {
+	background-color: #5b7989;
 }
